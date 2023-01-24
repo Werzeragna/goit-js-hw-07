@@ -1,7 +1,7 @@
 import { galleryItems } from "./gallery-items.js";
 // Change code below this line
 
-const galleryEl = document.querySelector(".galler");
+const galleryEl = document.querySelector(".gallery");
 
 const createImages = (options) =>
   options
